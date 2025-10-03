@@ -3,8 +3,8 @@
 
 ### Links
 
-- Solution URL: [Github](https://github.com/vinay-parit/four-card)
-- Live Site URL: [Vercel Link](https://four-card-seven-peach.vercel.app/)
+- Solution URL: [Github](https://github.com/akash-agasur/E-commerce-product-page)
+- Live Site URL: [Vercel Link](https://e-commerce-product-page-xi-bay.vercel.app/)
 
 ### ScreenShot
 
@@ -13,13 +13,14 @@
 
 ### Author
 
-- [Vinay-Parit](https://www.linkedin.com/in/vinay-parit/)
+- [Akash-Agasur](https://www.linkedin.com/in/akash--agasur/)
 
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
+- JavaScript
 - Flexbox
 - Mobile-first workflow
 - [Code Subtle](https://www.linkedin.com/company/code-subtle/)
